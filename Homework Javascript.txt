@@ -1,0 +1,31 @@
+Vamos a describir algunos conceptos que usamos en programación
+
+¿Que significan las variables?
+ 
+Una variable es un campo al que le asignas un símbolo o una letra y en dicho campo guardas un valor
+que tu puedes conocer o que desconoces, como por ejemplo un número o una operación matemática, o
+una palabra.
+
+¿Que son strings?
+
+Los strings son campos en los que puedes guardar un conjunto de símbolos o letras, por ejemplo palabras
+como tu nombre y apellido
+
+Funciones(argumentos, return)
+
+Las funciones son un conjunto o un bloque de instrucciones que cumplen una labor específica dentro de un programa.
+Los argumentos, son variables que utilizas para recibir valores ingresados a una función.
+El return es una instrucción que te permite terminar la ejecución de una función y especifica un valor
+que va a ser devuelto a quien llama la función.
+
+Declaraciones if
+
+Son instrucciones dentro de un programa que te permiten la toma de una o más decisiones si las ejecutas o no.
+Por ejemplo, si (if) eres mayor de edad puedes tener derecho a pedir un crédito en un banco, de lo contrario
+no lo puedes hacer.
+
+Valores booleanos (true, false)
+
+Es un tipo de dato o variable que solamente posee dos valores. Lo puedes usar para comparar dos números o
+dos instrucciones
+
